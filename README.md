@@ -6,15 +6,15 @@ Sources:
 
     * Recipes:
 
-        * How To Bake by Paul Hollywood
+        * Hollywood, Paul. How to Bake. Bloomsbury, 2012.
             * Ale Bread Rolls p. 62
             * Bacon and Cheddar Loaves p. 104
             * Cherry Tomato and Mozzarella Breads p. 103
 
-        * How To Bake Everything by Mark Bittman
+        * Bittman, Mark. How To Bake Everything. Double B Publishing, 2016.
             * Ciabatta p. 423-424
 
-        * The Official Harry Potter Baking Book
+        * Farrow, Joanna. The Official Harry Potter Baking Book. Scholastic Inc, 2021.
             * Deathly Hallows Bread p. 36
 
     * Images:
