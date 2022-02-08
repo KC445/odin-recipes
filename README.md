@@ -16,5 +16,3 @@ Sources:
 
         * Farrow, Joanna. The Official Harry Potter Baking Book. Scholastic Inc, 2021.
             * Deathly Hallows Bread p. 36
-
-    * Images:
