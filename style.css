@@ -1,0 +1,29 @@
+* {
+    background-color: #f1e6bb;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+h1 {
+    font-size: 70px;
+    font-weight: bold;
+    color: #59594A;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
+
+h2 {
+    font-size: 35px;
+    color: #7286A0;
+}
+
+a,
+p,
+li {
+    font-size: 20px;
+    color: #0A090C;
+}
